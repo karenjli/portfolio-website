@@ -33,6 +33,11 @@ body {
 	line-height: 1;
 }
 
+#wrapper.divided {
+	width: 940px;
+	margin: 0 auto;
+}
+
 ol, ul {
 	list-style: none;
 }
